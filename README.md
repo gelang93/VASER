@@ -4,4 +4,5 @@ Ting Zhong, Zijing Wen, Fan Zhou, Goce Trajcevski, Kunpeng Zhang. Session-based 
 
 # Dataset
 YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
+
 DIGINETICA: http://cikm2016.cs.iupui.edu/cikm-cup
