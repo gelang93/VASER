@@ -12,3 +12,8 @@ numpy (1.13.3)
 YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
 
 DIGINETICA: http://cikm2016.cs.iupui.edu/cikm-cup
+
+We give the example code of data preprocessing in ./data/data_preprocess_example.py
+
+
+
