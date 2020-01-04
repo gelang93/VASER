@@ -1,5 +1,6 @@
 # VASER
 This is our implementation for the paper:
+
 Ting Zhong, Zijing Wen, Fan Zhou, Goce Trajcevski, Kunpeng Zhang. Session-based Recommendation via Flow-based Deep Generative Networks and Bayesian Inference. in Neurocomputing
 
 # Dataset
